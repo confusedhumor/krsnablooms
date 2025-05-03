@@ -14,7 +14,7 @@ const flowers = [
     id: 2,
     name: 'Pooja Flowers',
     description: 'Only Marigold 100 gm',
-    price: 79,
+    price: 49,
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUkcJ7o72h2xgjywWXEFPoZHH2QV87E8gbAA&s',
   },
   {
