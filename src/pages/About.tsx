@@ -21,7 +21,7 @@ function About() {
             <br /><br />
             From our farm to your aarti plate — with love, every day.
             <br /><br />
-            <strong>Kṛṣṇa Blooms – Where Devotion Flowers.</strong>
+            <strong>Kṛṣṇa Blooms </strong>
           </p>
         </div>
         <div>
