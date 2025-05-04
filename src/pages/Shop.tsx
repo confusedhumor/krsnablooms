@@ -14,7 +14,7 @@ const flowers = [
     name: 'Pooja Flowers',
     description: 'Traditional flowers for daily pooja',
     price: 50,
-    image: 'https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b20a0074-d4a3-4479-8090-ad5394866a33.jpg?ts=1732177291'
+    image: 'https://images.herzindagi.info/image/2021/Feb/puja-flowers-main.jp'
   },
   {
     id: 3,
