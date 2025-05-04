@@ -8,7 +8,7 @@ const flowers = [
     name: 'Mix Pooja Flowers',
     description: '100gm',
     price: 79,
-    image: 'https://images.herzindagi.info/image/2021/Feb/puja-flowers-main.jpg',
+    image: 'https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b20a0074-d4a3-4479-8090-ad5394866a33.jpg?ts=1732177291',
   },
   {
     id: 2,
