@@ -11,10 +11,10 @@ const flowers = [
   },
   {
     id: 2,
-    name: 'Pooja Flowers',
-    description: 'Traditional flowers for daily pooja',
-    price: 50,
-    image: 'https://images.herzindagi.info/image/2021/Feb/puja-flowers-main.jp'
+    name: 'Pooja Flowers Mix',
+    description: 'Traditional flowers for daily pooja (100gm)',
+    price: 79,
+    image: 'https://imgs.search.brave.com/nPaPiPQ2JBhtMAsOt9Pnv7dz0ny__KeKxzdPGpTxsEk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Z3JvZmVycy5jb20v/Y2RuLWNnaS9pbWFn/ZS9mPWF1dG8sZml0/PXNjYWxlLWRvd24s/cT04NSxtZXRhZGF0/YT1ub25lLHc9NDgw/LGg9NDgwL2RhL2Nt/cy1hc3NldHMvY21z/L3Byb2R1Y3QvZWE5/ZmQyNzEtNDkzYS00/NzY2LTg3MmMtODE5/NGUyYTg1NGVkLmpw/Zz90cz0xNzQwMjkw/NTMz'
   },
   {
     id: 3,
