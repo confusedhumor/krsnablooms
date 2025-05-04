@@ -65,9 +65,8 @@ function Order() {
       }
     } catch (error) {
       console.error("Error placing the order:", error);
-      toast("✅ ✅ Thank you for your order!<br /><br />
-    We'll reach out to confirm shortly.
-  </>");
+      toast("✅ Thank you for your order!
+    We'll reach out to confirm shortly.");
     } finally {
       setIsSubmitting(false);
     }
