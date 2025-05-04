@@ -103,9 +103,9 @@ function Contact() {
                 <h3 className="text-xl font-semibold text-gray-900">WhatsApp</h3>
                 <p className="mt-2 text-gray-600">Get quick responses on WhatsApp</p>
                 <a
-                  href="https://wa.me/+919811099730?text=Hi! I saw your page and wanted to know more 😊."
-                  target="_blank"
-                  rel="noopener noreferrer"
+                 href="https://wa.me/919811099730?text=hi"
+  target="_blank"
+  rel="noopener noreferrer"
                   className="inline-flex items-center mt-4 px-6 py-3 border border-transparent text-base font-medium rounded-full shadow-sm text-white bg-green-500 hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500 transition-colors"
                 >
                   Chat with Us
