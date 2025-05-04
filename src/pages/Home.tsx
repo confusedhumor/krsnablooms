@@ -15,7 +15,7 @@ const flowers = [
     name: 'Pooja Flowers',
     description: 'Only Marigold 100 gm',
     price: 49,
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUkcJ7o72h2xgjywWXEFPoZHH2QV87E8gbAA&s',
+    image: 'https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b20a0074-d4a3-4479-8090-ad5394866a33.jpg?ts=1732177291',
   },
   {
     id: 3,
